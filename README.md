@@ -48,7 +48,7 @@
 ### 🏆 Achievements
 
 - 🥇 **98.1 percentile** in JEE Mains 2023 — AIR 22,091
-- 💡 Solved **100+ DSA problems** on [LeetCode](https://leetcode.com/rajlodhi498)
+- 💡 Solved **100+ DSA problems** on [LeetCode]([https://leetcode.com/rajlodhi498](https://www.linkedin.com/in/raj-lodhi-313809290))
 
 ---
 
