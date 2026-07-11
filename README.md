@@ -49,7 +49,7 @@
 
 ---
 
-#### 💼 [HireHub – Full Stack MERN Job Portal]([YOUR_LIVE_LINK](https://full-stack-hirehub-portal.vercel.app))
+#### 💼 [HireHub – Full Stack MERN Job Portal](https://full-stack-hirehub-portal.vercel.app)
 > React.js · Redux Toolkit · Node.js · Express.js · MongoDB · JWT · Cloudinary · Multer · Axios
 
 - Full-stack recruitment platform with 2 user roles (Recruiter & Job Seeker) and role-based authorization
